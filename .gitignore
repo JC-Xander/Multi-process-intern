@@ -1,0 +1,5 @@
+# --- Jean -----
+Proyecto-Jean/build/*
+# --- Programa ----
+!Proyecto-Jean/build/BecarioRun
+
